@@ -96,7 +96,7 @@ Example:
 The modification takes effect only for the user who runs the command and has a higher priority than the default configuration. If you need to modify the default configuration, modify the [configuration file](How-to-ues/configyml-template.md)
 :::
 
-1. `/wikidelete <Wiki名字>`
+1. `/wikidelete <Wiki Name>`
 
 **Delete a MediaWiki site that has been added**
 
